@@ -2,8 +2,6 @@
 
 - 👋 Hi, I’m @tedtalksbits
 - 👀 I’m interested in anything.js
-- 🌱 I’m currently learning JAVA 😿
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://tedtalksbits.github.io/tedaneblakedev/
 
 <!---
