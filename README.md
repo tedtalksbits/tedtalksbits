@@ -1,4 +1,3 @@
-<img src="https://cdn.weasyl.com/static/media/de/1d/b6/de1db62c0e11555b82312db6e3d3fc040cd6e972e04719403d3458e9aa16c739.gif" height="500" />
 
 - 👋 Hi, I’m @tedtalksbits
 - 👀 I’m interested in anything.js
